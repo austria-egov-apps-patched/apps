@@ -4,8 +4,8 @@ Falls die Apps auf `.apk.zip` enden könnt ihr sie einfach auf `.apk` umbenennen
 
 ## Digitales Amt (`at.gv.oe.app`)
 
-* [`2.5.2`](https://anonfiles.com/b7J90aW6yd/at.gv.oe.app_2.5.2_patched_apk)
+* [`2.6.3`](https://anonfiles.com/Ff62bcv6z7/at_gv_oe_app_2_6_3_patched_apk)
 
 ## FinanzOnline [+] (`at.gv.bmf.bmf2go`)
 
-* [`2.2.0`](https://anonfiles.com/DdGa0cW7y7/at.gv.bmf.bmf2go_2.2.0_patched_apk)
+* [`3.0.1`](https://anonfiles.com/O2Kab0v2z3/at_gv_bmf_bmf2go_3_0_1_patched_apk)
