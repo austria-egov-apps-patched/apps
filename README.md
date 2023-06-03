@@ -1,7 +1,5 @@
 # apps
 
-Falls die Apps auf `.apk.zip` enden könnt ihr sie einfach auf `.apk` umbenennen.
-
 ## Digitales Amt (`at.gv.oe.app`)
 
 * [`2.6.3`](https://anonfiles.com/Ff62bcv6z7/at_gv_oe_app_2_6_3_patched_apk)
