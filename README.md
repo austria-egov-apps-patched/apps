@@ -6,4 +6,4 @@
 
 ## FinanzOnline [+] (`at.gv.bmf.bmf2go`)
 
-* [`3.0.1`](https://anonfiles.com/O2Kab0v2z3/at_gv_bmf_bmf2go_3_0_1_patched_apk)
+* [`3.0.1`](https://anonfiles.com/50n5dfv3z3/at_gv_bmf_bmf2go_3_0_1_patched_apk)
